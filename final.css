@@ -1,0 +1,201 @@
+*
+{
+    font-family: calibri;
+}
+
+body
+{
+    margin: 0;
+}
+
+p
+{
+    padding-bottom: 1em;
+}
+
+h2
+{
+    text-align: center;
+}
+
+.text
+{
+    width: 60%;
+    margin: auto;
+    background-color: #ebebeb;
+    border-radius: 4px;
+    box-shadow: 1px 1px 5px gray;
+    padding: 1px 20px 1px 20px;
+}
+
+.games
+{
+    display: inline-block;
+    margin: 25px 25px 25px 25px;
+    position: relative;
+}
+
+.games > img
+{
+    border-radius: 4px;
+    box-shadow: 1px 1px 5px gray;
+}
+
+.games > p
+{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    margin: auto;
+    border-radius: 4px 4px 0 0;
+    padding: 1em 0 1em 0;
+    text-align: center;
+    width: 100%;
+    background-color: rgba(0,0,0,.6);
+    color: white;
+    -o-transition: padding .5s;
+    -moz-transition: padding .5s;
+    -webkit-transition: padding .5s
+}
+
+.games > p:hover
+{
+    position: absolute;
+    top: 0px;
+    left: 0px;
+    margin: auto;
+    border-radius: 4px 4px 4px 4px;
+    padding-top: 5.75em;
+    padding-bottom: 5.75em;
+    text-align: center;
+    width: 100%;
+    background-color: rgba(0,0,0,.6);
+    color: white;
+    -o-transition: padding .5s;
+    -moz-transition: padding .5s;
+    -webkit-transition: padding .5s;
+}
+
+.nav a
+{
+    display: inline-block;
+    color: black;
+    padding: 5px 25px 5px 25px;
+    text-decoration: none;
+}
+
+.nav a:hover
+{
+    background-color: white;
+    box-shadow: 1px 1px 5px gray;
+}
+
+.active
+{
+    background-color: white;
+    box-shadow: 1px 1px 5px gray;
+}
+
+.nav ul
+{
+    background-color: #ebebeb;
+    padding-left: 0;
+    width: 100%;
+    text-align: center;
+    margin-top: 0;
+    box-shadow: 1px 1px 5px gray;
+}
+
+.nav ul li
+{
+    display: inline-block;
+    position: relative;
+}
+
+ul li ul 
+{
+  padding: 0;
+  position: absolute;
+  display: none;
+  left: 0;
+  top: 100%;
+  z-index: 1000;
+}
+
+
+.nav ul li ul li 
+{ 
+  background: #ebebeb; 
+  color: black;
+  z-index: 1000;
+}
+
+.nav ul li:hover ul
+{
+    display: block;
+    opacity: 1;
+    visibility: visible;
+    z-index: 1000;
+}
+
+.descriptionPic
+{
+    display: block;
+    margin: auto;
+    width: 30%;
+    box-shadow: 1px 1px 5px gray;
+    border-radius: 4px 4px 4px 4px;
+}
+
+.characterPic
+{
+    display: block;
+    margin: auto;
+    padding-bottom: 5em;
+    width: 30%;
+}
+
+.battle > h3
+{
+    text-align: center;
+}
+
+.battle > img
+{
+    display: block;
+    float: left;
+    width: 30%;
+    margin-right: 2em;
+    box-shadow: 1px 1px 5px gray;
+    border-radius: 4px 4px 4px 4px;
+}
+
+.battle
+{
+    margin-bottom: 8em;
+}
+
+#header
+{
+    background-image: url('background.jpg');
+    padding-left: 2em;
+    box-shadow: 1px 1px 5px gray;
+}
+
+#footer
+{
+    text-align: center;
+    width: 100%;
+    color: gray;
+}
+
+#mainImage
+{
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 100%;
+    margin-bottom: 1em;
+    box-shadow: 1px 1px 5px gray;
+    border-radius: 4px 4px 4px 4px;
+}
