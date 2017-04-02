@@ -33,12 +33,12 @@
 <section class="text">
 <h2>Final Fantasy X</h2>
 
-<img class="descriptionPic" src="ff10b.jpg" alt="ff10 gameplay">
+<img class="descriptionPic" src="images/ff10b.jpg" alt="ff10 gameplay">
 
-<p class="description">The story of Final Fantasy X follows a boy named Tidus, who get lost in 
-time when he comes into contact with Sin, the main antagonist of the game. Sin is described to be 
-an almost whale-like creature, whose main goal is to essentially destroy the world. When Tidus gets sucked 
-into a portal that leads him 1000 years into the future, he tries to find a way back home. Eventually, he 
+<p class="description">The story of Final Fantasy X follows a boy named Tidus, who get lost in
+time when he comes into contact with Sin, the main antagonist of the game. Sin is described to be
+an almost whale-like creature, whose main goal is to essentially destroy the world. When Tidus gets sucked
+into a portal that leads him 1000 years into the future, he tries to find a way back home. Eventually, he
 learns that Sin is somehow connected to his dad, and he decides that he must stop Sin himself.</p>
 <p class="system">System: Sony Playstation 2</p>
 <p>Main Character: <a class="charLink" href="characters.php#tidus">Tidus</a></p>
@@ -48,6 +48,6 @@ learns that Sin is somehow connected to his dad, and he decides that he must sto
 
 </body>
 
-<?php include 'footer.php'; ?> 
+<?php include 'footer.php'; ?>
 
 </html>

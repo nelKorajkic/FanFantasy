@@ -33,13 +33,13 @@
 <section class="text">
 <h2>Final Fantasy IX</h2>
 
-<img class="descriptionPic" src="ff9b.png" alt="ff9 gameplay">
+<img class="descriptionPic" src="images/ff9b.png" alt="ff9 gameplay">
 
-<p class="description">Final Fantasy IX follows the main character, Zidane Tribal. He finds 
-himself in a group of thieves that one day decides to try and kidnap the princess for ransom. 
-After a series of events that lead them to work as a team, they discover that an evil force must 
-be stopped, and the one behind that force is named Kuja. The level up system in this one is similar to 
-Final Fantasy VI's, where the characters have set growths and set classes. There is not much room for 
+<p class="description">Final Fantasy IX follows the main character, Zidane Tribal. He finds
+himself in a group of thieves that one day decides to try and kidnap the princess for ransom.
+After a series of events that lead them to work as a team, they discover that an evil force must
+be stopped, and the one behind that force is named Kuja. The level up system in this one is similar to
+Final Fantasy VI's, where the characters have set growths and set classes. There is not much room for
 creativity with classes or spells.</p>
 <p class="system">System: Sony Playstation</p>
 <p>Main Character: <a class="charLink" href="characters.php#zidane">Zidane Tribal</a></p>
@@ -49,6 +49,6 @@ creativity with classes or spells.</p>
 
 </body>
 
-<?php include 'footer.php'; ?> 
+<?php include 'footer.php'; ?>
 
 </html>

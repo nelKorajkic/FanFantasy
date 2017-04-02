@@ -33,13 +33,13 @@
 <section class="text">
 <h2>Final Fantasy II</h2>
 
-<img class="descriptionPic" src="ff2b.jpg" alt="ff2 gameplay">
+<img class="descriptionPic" src="images/ff2b.jpg" alt="ff2 gameplay">
 
-<p class="description">Final Fantasy II was developed and published in 1988 by Square. The story focuses on the lives of four 
-    youth whose families were killed by the empire of Palamecia. Three of these youth join the rebellion against the empire of 
-    Palamecia. After defeating the empire of Palamecia, they find out that their fourth friend had become a dark knight and has 
-    taken over the empire of Palamecia. He now plans to attack the rebellion and his friends! When the three friends of rebellion 
-    go to confront their old friend and now dark knight, they find the defeated emperor reappears as a demon! They agree to join 
+<p class="description">Final Fantasy II was developed and published in 1988 by Square. The story focuses on the lives of four
+    youth whose families were killed by the empire of Palamecia. Three of these youth join the rebellion against the empire of
+    Palamecia. After defeating the empire of Palamecia, they find out that their fourth friend had become a dark knight and has
+    taken over the empire of Palamecia. He now plans to attack the rebellion and his friends! When the three friends of rebellion
+    go to confront their old friend and now dark knight, they find the defeated emperor reappears as a demon! They agree to join
     forces and travel to his demonic castle to defeat him!</p>
 <p class="system">System: Nintendo Entertainment System</p>
 <p>Main Character: <a class="charLink" href="characters.php#firion">Firion</a></p>
@@ -49,6 +49,6 @@
 
 </body>
 
-<?php include 'footer.php'; ?> 
+<?php include 'footer.php'; ?>
 
 </html>

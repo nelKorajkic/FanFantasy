@@ -33,15 +33,15 @@
 <section class="text">
 <h2>Final Fantasy XIII</h2>
 
-<img class="descriptionPic" src="ff13b.jpg" alt="ff13 gameplay">
+<img class="descriptionPic" src="images/ff13b.jpg" alt="ff13 gameplay">
 
-<p class="description">The plot for Final Fantasy XIII involves a group of six characters 
-that all happened to meet up in different situations. It had seemed almost too good to be true, 
-that it was much more than a coincidence. The group molded so perfectly together. They decide 
-that they need to stop the evil force in this game from colliding two worlds together. The 
-level system in this game is unique to the series, but is slightly similar to the systems in X 
-and XII. It is a tree system but with limited paths you can take. However, there are multiple trees to 
-coincide with different classes, so the player gets the option to prioritize certain classes over others 
+<p class="description">The plot for Final Fantasy XIII involves a group of six characters
+that all happened to meet up in different situations. It had seemed almost too good to be true,
+that it was much more than a coincidence. The group molded so perfectly together. They decide
+that they need to stop the evil force in this game from colliding two worlds together. The
+level system in this game is unique to the series, but is slightly similar to the systems in X
+and XII. It is a tree system but with limited paths you can take. However, there are multiple trees to
+coincide with different classes, so the player gets the option to prioritize certain classes over others
 for specific characters.</p>
 <p class="system">System: Sony Playstation 3</p>
 <p>Main Character: <a class="charLink" href="characters.php#lightning">Lightning</a></p>
@@ -51,6 +51,6 @@ for specific characters.</p>
 
 </body>
 
-<?php include 'footer.php'; ?> 
+<?php include 'footer.php'; ?>
 
 </html>

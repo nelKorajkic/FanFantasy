@@ -33,11 +33,11 @@
 <section class="text">
 <h2>Final Fantasy V</h2>
 
-<img class="descriptionPic" src="ff5b.jpg" alt="ff5 gameplay">
+<img class="descriptionPic" src="images/ff5b.jpg" alt="ff5 gameplay">
 
-<p class="description">Final Fantasy V was developed and published in 1992 by Square. The story follows Barts, 
-    a wanderer who finds a fallen meteor. He then encounteres several other characters which describe to him 
-    the danger that is threatening his world. The evil sorcerer Exdeath plans to rule the world, and the only 
+<p class="description">Final Fantasy V was developed and published in 1992 by Square. The story follows Barts,
+    a wanderer who finds a fallen meteor. He then encounteres several other characters which describe to him
+    the danger that is threatening his world. The evil sorcerer Exdeath plans to rule the world, and the only
     way to stop his evil is to collect the four elemental crystals which are used to seal him!</p>
 <p class="system">System: Super Nintendo Entertainment System</p>
 <p>Main Character: <a class="charLink" href="characters.php#bartz">Bartz Klauser</a></p>
@@ -47,6 +47,6 @@
 
 </body>
 
-<?php include 'footer.php'; ?> 
+<?php include 'footer.php'; ?>
 
 </html>

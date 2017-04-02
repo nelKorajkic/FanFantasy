@@ -33,11 +33,11 @@
 <section class="text">
 <h2>Final Fantasy IV</h2>
 
-<img class="descriptionPic" src="ff4b.jpg" alt="ff4 gameplay">
+<img class="descriptionPic" src="images/ff4b.jpg" alt="ff4 gameplay">
 
-<p class="description">Final Fantasy IV was developed and published in 1991 by Square. The story follows a dark knight named Cecil, 
-    who is trying to stop a sorcer named Golbez from destroying the world. Golbez is planning to do this by collecting powerful 
-    crystals which in turn will make him extremely powerful. Cecil is surrouded by a group of constatly changing allies. 
+<p class="description">Final Fantasy IV was developed and published in 1991 by Square. The story follows a dark knight named Cecil,
+    who is trying to stop a sorcer named Golbez from destroying the world. Golbez is planning to do this by collecting powerful
+    crystals which in turn will make him extremely powerful. Cecil is surrouded by a group of constatly changing allies.
     Some leave for personal reasons, others are injured and some even die, on the journey to defeat Golbez.</p>
 <p class="system">System: Super Nintendo Entertainment System</p>
 <p>Main Character: <a class="charLink" href="characters.php#cecil">Cecil Harvey</a></p>
@@ -47,6 +47,6 @@
 
 </body>
 
-<?php include 'footer.php'; ?> 
+<?php include 'footer.php'; ?>
 
 </html>

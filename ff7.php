@@ -33,15 +33,15 @@
 <section class="text">
 <h2>Final Fantasy VII</h2>
 
-<img class="descriptionPic" src="ff7b.jpg" alt="ff7 gameplay">
+<img class="descriptionPic" src="images/ff7b.jpg" alt="ff7 gameplay">
 
-<p class="description">Final Fantasy VII was developed and published by Square in 1997. The story follows 
-    Cloud an Ex-SOLDIER who joins the eco-terrorist rebel group AVALANCHE to stop Shinra, the world-controlling 
-    corporation which is draining the world's energy source, Mako energy, to use it to fuel their corporation. 
+<p class="description">Final Fantasy VII was developed and published by Square in 1997. The story follows
+    Cloud an Ex-SOLDIER who joins the eco-terrorist rebel group AVALANCHE to stop Shinra, the world-controlling
+    corporation which is draining the world's energy source, Mako energy, to use it to fuel their corporation.
     As the journey progresses Cloud and his allies must face against Sephiroth who has long been thought to be dead!</p>
-<p class="description">There were many spin-offs for this game. Dirge of Cerberus was a game based on a character named 
-    Vincent Valentine, who was a playable character in the original game. It features a third-person shooter battle system, 
-    rather than the traditional RPG style battle system. Another was Crisis Core, which told us what happened before the events 
+<p class="description">There were many spin-offs for this game. Dirge of Cerberus was a game based on a character named
+    Vincent Valentine, who was a playable character in the original game. It features a third-person shooter battle system,
+    rather than the traditional RPG style battle system. Another was Crisis Core, which told us what happened before the events
     of Final Fantasy VII.</p>
 <p class="system">System: Sony Playstation</p>
 <p>Main Character: <a class="charLink" href="characters.php#cloud">Cloud Strife</a></p>
@@ -51,6 +51,6 @@
 
 </body>
 
-<?php include 'footer.php'; ?> 
+<?php include 'footer.php'; ?>
 
 </html>

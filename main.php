@@ -32,15 +32,15 @@
 <h2>A World of Fantasy</h2>
 
 <p>Fan Fantasy is designed to help spread the knowledge about
-the various Final Fantasy games and to get people into the series. Click on the 
-various pages to find out more about the game. We hope you learn a little something 
+the various Final Fantasy games and to get people into the series. Click on the
+various pages to find out more about the game. We hope you learn a little something
 about the series. Enjoy!</p>
-<img id="mainImage" src="mainImage.jpg" alt="the main page image">
+<img id="mainImage" src="images/mainImage.jpg" alt="the main page image">
 
 </div>
 
 </body>
 
-<?php include 'footer.php'; ?> 
+<?php include 'footer.php'; ?>
 
 </html>

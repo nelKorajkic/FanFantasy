@@ -33,12 +33,12 @@
 <section class="text">
 <h2>Final Fantasy XII</h2>
 
-<img class="descriptionPic" src="ff12b.jpg" alt="ff12 gameplay">
+<img class="descriptionPic" src="images/ff12b.jpg" alt="ff12 gameplay">
 
-<p class="description">The plot for Final Fantasy XII is much like the previous games. There resides 
-a character that by some stroke of luck becomes part of some huge adventure and ends up being the last 
-hope for humanity. In this case, Vaan has a duty to save the world from evil sky pirates. The level up system 
-is very similar to Final Fantasy X's system and very unique, in that it has a grid of potential skills and stats that you can level up. There are many 
+<p class="description">The plot for Final Fantasy XII is much like the previous games. There resides
+a character that by some stroke of luck becomes part of some huge adventure and ends up being the last
+hope for humanity. In this case, Vaan has a duty to save the world from evil sky pirates. The level up system
+is very similar to Final Fantasy X's system and very unique, in that it has a grid of potential skills and stats that you can level up. There are many
 possibilities in regards to character creativity.</p>
 <p class="system">System: Sony Playstation 2</p>
 <p>Main Character: <a class="charLink" href="characters.php#vaan">Vaan</a></p>
@@ -48,6 +48,6 @@ possibilities in regards to character creativity.</p>
 
 </body>
 
-<?php include 'footer.php'; ?> 
+<?php include 'footer.php'; ?>
 
 </html>

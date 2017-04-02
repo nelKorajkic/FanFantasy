@@ -1,3 +1,3 @@
 <header id="header">
-    <a href="main.php"><img src="FFBanner.png" alt="ff"></a>
+    <a href="main.php"><img src="images/FFBanner.png" alt="ff"></a>
 </header>

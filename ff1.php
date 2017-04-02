@@ -33,13 +33,13 @@
 <section class="text">
 <h2>Final Fantasy I</h2>
 
-<img class="descriptionPic" src="ff1b.jpg" alt="ff1 gameplay">
+<img class="descriptionPic" src="images/ff1b.jpg" alt="ff1 gameplay">
 
-<p class="description">Final Fantasy I takes place in a world with three large continents. 
-    The game focuses on a group of 4 warriors, called "The Light Warriors," 
-    as they make their way through this world to try and obtain the four elemental 
-    crystals to restore peace to the land. At the beginning of the game, the player gets the option to choose 
-    a class (a class is a character's job or title, such as "ninja" or "warrior") for each of the four characters, 
+<p class="description">Final Fantasy I takes place in a world with three large continents.
+    The game focuses on a group of 4 warriors, called "The Light Warriors,"
+    as they make their way through this world to try and obtain the four elemental
+    crystals to restore peace to the land. At the beginning of the game, the player gets the option to choose
+    a class (a class is a character's job or title, such as "ninja" or "warrior") for each of the four characters,
     and gets to name them.</p>
 <p class="system">System: Nintendo Entertainment System</p>
 <p>Battle System: <a class="battleLink" href="battle.php#turnBased">Turn Based</a></p>
@@ -48,6 +48,6 @@
 
 </body>
 
-<?php include 'footer.php'; ?> 
+<?php include 'footer.php'; ?>
 
 </html>

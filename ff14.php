@@ -33,18 +33,18 @@
 <section class="text">
 <h2>Final Fantasy XIV</h2>
 
-<img class="descriptionPic" src="ff14b.jpg" alt="ff14 gameplay">
+<img class="descriptionPic" src="images/ff14b.jpg" alt="ff14 gameplay">
 
 <p class="description">Final Fantasy XIV is another online MMORPG, similar to XI. This time,
-they based it in a completely different world with more cities and areas to travel to. When the 
-game first came out, it received a lot of negative reviews because of how poorly the battle 
-system and the level up systems were executed. However, a few years later, they release a updated 
-version of the game called A Realm Reborn. They polished a lot of the aspects that were considered 
-bad in the old game, and this one received a lot more positive reviews. The level up system follows 
-a traditional system. The player levels up and gains stats and skill points. The player can put those 
-points into any skills they want. The class system, however, is very unique to the genre. It requires that you 
-simply change weapons in order to change classes. A specific weapon will turn you into that weapon's corresponding 
-class. There are also secondary classes, that require the player to level up two primary classes to specific levels in order 
+they based it in a completely different world with more cities and areas to travel to. When the
+game first came out, it received a lot of negative reviews because of how poorly the battle
+system and the level up systems were executed. However, a few years later, they release a updated
+version of the game called A Realm Reborn. They polished a lot of the aspects that were considered
+bad in the old game, and this one received a lot more positive reviews. The level up system follows
+a traditional system. The player levels up and gains stats and skill points. The player can put those
+points into any skills they want. The class system, however, is very unique to the genre. It requires that you
+simply change weapons in order to change classes. A specific weapon will turn you into that weapon's corresponding
+class. There are also secondary classes, that require the player to level up two primary classes to specific levels in order
 to upgrade to the class.</p>
 <p class="system">System: PC/Sony Playstation 3</p>
 <p>Battle System: <a class="battleLink" href="battle.php#mmorpg">MMORPG</a></p>
@@ -53,6 +53,6 @@ to upgrade to the class.</p>
 
 </body>
 
-<?php include 'footer.php'; ?> 
+<?php include 'footer.php'; ?>
 
 </html>

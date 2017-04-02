@@ -33,14 +33,14 @@
 <section class="text">
 <h2>Final Fantasy VI</h2>
 
-<img class="descriptionPic" src="ff6b.png" alt="ff6 gameplay">
+<img class="descriptionPic" src="images/ff6b.png" alt="ff6 gameplay">
 
-<p class="description">Final Fantasy VI is a story about magic and espers. A war broke out 
-    called the War of the Magi, a war between the humans and the espers. The humans 
-tried to take the power of the espers for themselves by draining the planet of its life force. 
-A group of young fighters band together, led by Terra Branford. The group travels the world to 
-try and stop the humans from destroying the world, by killing the man behind it all, Kefka. In 
-this game, as opposed to the previous games, the player does not get the option to choose character classes. 
+<p class="description">Final Fantasy VI is a story about magic and espers. A war broke out
+    called the War of the Magi, a war between the humans and the espers. The humans
+tried to take the power of the espers for themselves by draining the planet of its life force.
+A group of young fighters band together, led by Terra Branford. The group travels the world to
+try and stop the humans from destroying the world, by killing the man behind it all, Kefka. In
+this game, as opposed to the previous games, the player does not get the option to choose character classes.
 Instead, characters are given set classes and are forced certain stat strengths and weaknesses.</p>
 <p class="system">System: Super Nintendo Entertainment System</p>
 <p>Main Character: <a class="charLink" href="characters.php#terra">Terra</a></p>
@@ -50,6 +50,6 @@ Instead, characters are given set classes and are forced certain stat strengths 
 
 </body>
 
-<?php include 'footer.php'; ?> 
+<?php include 'footer.php'; ?>
 
 </html>

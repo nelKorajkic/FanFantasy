@@ -33,11 +33,11 @@
 <section class="text">
 <h2>Final Fantasy III</h2>
 
-<img class="descriptionPic" src="ff3b.jpg" alt="ff3 gameplay">
+<img class="descriptionPic" src="images/ff3b.jpg" alt="ff3 gameplay">
 
-<p class="description">Final Fantasy III was develeoped and published in 1990 by Square. The story follows four orphaned 
-    youth searching for a crystal of light. This crystal grants each of the youth power and guides them to "restore balance 
-    in the world." Now the youth don't exactly what the crystal meant but understanding how important this is for the survival 
+<p class="description">Final Fantasy III was develeoped and published in 1990 by Square. The story follows four orphaned
+    youth searching for a crystal of light. This crystal grants each of the youth power and guides them to "restore balance
+    in the world." Now the youth don't exactly what the crystal meant but understanding how important this is for the survival
     of their world, they set out on a journey, to bring balance back to the world.</p>
 <p class="system">System: Nintendo Entertainment System</p>
 <p>Battle System: <a class="battleLink" href="battle.php#turnBased">Turn Based</a></p>
@@ -46,6 +46,6 @@
 
 </body>
 
-<?php include 'footer.php'; ?> 
+<?php include 'footer.php'; ?>
 
 </html>

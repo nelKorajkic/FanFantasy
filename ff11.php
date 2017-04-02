@@ -33,11 +33,11 @@
 <section class="text">
 <h2>Final Fantasy XI</h2>
 
-<img class="descriptionPic" src="ff11b.jpg" alt="ff11 gameplay">
+<img class="descriptionPic" src="images/ff11b.jpg" alt="ff11 gameplay">
 
-<p class="description">Final Fantasy XI was developed and published in Square in 2002. This was the first MMO 
-    released for the franchise. The story is set in the world of Vana'diel. Players create avatars and compete 
-    in a variety of objectives to develop skills in the game and for certain in-game item rewards. Players can 
+<p class="description">Final Fantasy XI was developed and published in Square in 2002. This was the first MMO
+    released for the franchise. The story is set in the world of Vana'diel. Players create avatars and compete
+    in a variety of objectives to develop skills in the game and for certain in-game item rewards. Players can
     also complete quests which reward the player and also, guide them through the major plot of the game.</p>
 <p class="system">System: PC</p>
 <p>Battle System: <a class="battleLink" href="battle.php#mmorpg">MMORPG</a></p>
@@ -46,6 +46,6 @@
 
 </body>
 
-<?php include 'footer.php'; ?> 
+<?php include 'footer.php'; ?>
 
 </html>

@@ -32,14 +32,14 @@
 <section class="text">
 <h2>Final Fantasy VIII</h2>
 
-<img class="descriptionPic" src="ff8b.jpg" alt="ff8 gameplay">
+<img class="descriptionPic" src="images/ff8b.jpg" alt="ff8 gameplay">
 
-<p class="description">The story of Final Fantasy VIII follows the adventure of Squall Leonhart 
-as he joins an elite organization called SeeD. Through his missions, he finds that there is an 
-evil force called Ultimecia that is trying compress time into a single moment. Squall does all 
-he can to try and stop Ultimecia before he is able to pull of this evil deed. In this game, the way 
-characters level up is by drawing spells from monsters and creating a collection of spell cards that can 
-be used in battle. This helps the character become stronger by having a larger arsenal of weapons and spells to 
+<p class="description">The story of Final Fantasy VIII follows the adventure of Squall Leonhart
+as he joins an elite organization called SeeD. Through his missions, he finds that there is an
+evil force called Ultimecia that is trying compress time into a single moment. Squall does all
+he can to try and stop Ultimecia before he is able to pull of this evil deed. In this game, the way
+characters level up is by drawing spells from monsters and creating a collection of spell cards that can
+be used in battle. This helps the character become stronger by having a larger arsenal of weapons and spells to
 choose from.</p>
 <p class="system">System: Sony Playstation</p>
 <p>Main Character: <a class="charLink" href="characters.php#squall">Squall Leonhart</a></p>
@@ -49,6 +49,6 @@ choose from.</p>
 
 </body>
 
-<?php include 'footer.php'; ?> 
+<?php include 'footer.php'; ?>
 
 </html>
